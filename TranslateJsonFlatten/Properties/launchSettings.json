@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TranslateJsonFlatten": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\CY.csv"
+    }
+  }
+}

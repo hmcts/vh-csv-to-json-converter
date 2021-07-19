@@ -1,0 +1,9 @@
+Key,English,Welsh
+hearing-list-table:today,"Today"
+hearing-list-table:sign-in,"Sign in {{date}}"
+hearing-list-table:on-date,"on {{date}}"
+hearing-list-table:hearing-details,"Hearing details"
+hearing-list-table:from,"from {{time}}"
+hearing-list-table:date-and-time,"Date & time"
+hearing-list-table:case-number,"Case number"
+hearing-list-table:button:sign-into-hearing,"Sign into hearing"

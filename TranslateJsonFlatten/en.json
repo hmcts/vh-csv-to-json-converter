@@ -1,0 +1,14 @@
+{
+  "hearing-list-table": {
+    "today": "\"Today\"",
+    "sign-in": "\"Sign in {{date}}\"",
+    "on-date": "\"on {{date}}\"",
+    "hearing-details": "\"Hearing details\"",
+    "from": "\"from {{time}}\"",
+    "date-and-time": "\"Date & time\"",
+    "case-number": "\"Case number\"",
+    "button": {
+      "sign-into-hearing": "\"Sign into hearing\""
+    }
+  }
+}
